@@ -1,0 +1,5 @@
+{
+  "name": "MarketPulse AI",
+  "description": "Real-time AI-powered stock market insights for short-term investment opportunities using Google Search grounding.",
+  "requestFramePermissions": []
+}
